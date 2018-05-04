@@ -20,6 +20,6 @@ namespace UnitTestCalculator
 
 
 
-        public void CanDivideNumber(int x,int y, int expected)
+        //public void CanDivideNumber(int x,int y, int expected)
     }
 }
